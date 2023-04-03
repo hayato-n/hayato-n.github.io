@@ -1,0 +1,62 @@
+baseURL : "https://hayato-n.github.io/WebPage/"
+languageCode : en
+title : "Hayato Nishi"
+theme : "PaperMod"
+defaultContentLanguage: en
+publishDir: "docs"
+canonifyurls: true
+# googleAnalytics: ""
+
+menu:
+    main:
+        - identifier: About
+          name: About
+          url: /About/
+          weight: 1
+        - identifier: Publications
+          name: Publications
+          url: /Publications/
+          weight: 2
+        - identifier: Books
+          name: Books
+          url: /Books/
+          weight: 3
+        - identifier: Blogs
+          name: Blogs
+          url: /Blogs/
+          weight: 4
+        - identifier: tags
+          name: tags
+          url: tags
+          weight: 5
+
+params:
+    regularMode:
+
+    profileMode:
+        enabled: true
+        # title: "test" # optional default will be site title
+        subtitle: "Statistical Urban Analysis"
+        imageUrl: "/content/images/Face.jpg" # optional
+        imageTitle: "portrait" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+            - name: About Me
+              url: about
+            - name: Blog
+              url: blogs
+            # name: About
+            # url: About
+            # name: Github
+            # url: "https://github.com/"
+        ShowShareButtons: true
+        ShareBottuns: ["github"]
+
+    socialIcons:
+      - name: "github"
+        url: "https://github.com/hayato-n"
+      - name: "googlescholar"
+        url: "https://scholar.google.com/citations?user=HrEhRyEAAAAJ"
+      - name: "researchgate"
+        url: "https://www.researchgate.net/profile/Hayato-Nishi"
