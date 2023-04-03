@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hayato Nishi</title>
+    <link>https://hayato-n.github.io/WebPage/</link>
+    <description>Recent content on Hayato Nishi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Jan 2023 20:11:48 +0900</lastBuildDate><atom:link href="https://hayato-n.github.io/WebPage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://hayato-n.github.io/WebPage/pages/0-about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayato-n.github.io/WebPage/pages/0-about/</guid>
+      <description>西 颯人 所属  一橋大学 ソーシャル・データサイエンス教育研究推進センター 特任助教 (2022/04-) 麗澤大学 特任研究員 (2022/04-) 東京大学 空間情報科学研究センター 客員研究員 (2022/05/10-)  専門・関心  統計的都市解析 住宅・不動産価格 都市の安全（犯罪・交通事故）  アプローチ  統計モデリング  ベイズモデリング 時系列解析 統計的機械学習    略歴  学歴  東京大学 工学部 都市工学科 都市計画コース 卒業 (2017/03) 東京大学大学院 工学系研究科 都市工学専攻 修士課程 修了 (2019/03) 東京大学大学院 工学系研究科 都市工学専攻 博士後期課程 修了 （博士（工学）） (2022/03/24)   その他  神奈川県警察 産学官連携による人工知能を活用した犯罪・交通事故発生予測技法の調査研究 研究調査委員会 調査研究補助者 (2019) 東京大学CSIS不動産情報科学研究室 博士課程在学研究員 (2019-2022)     Hayato Nishi Affiliation  Specially Appointed Research Associate in Center for the Promotion of Social Data Science Education and Research, Hitotsubashi University (2022/04-) Visiting Researcher in Center for Spatial Information Science, the University of Tokyo (2022/05/10-)  Specialization and Interest  Statistical Urban Analysis Price Function Structure of Housings and Real Estates Urban Safety (Crime and Traffic Accident)  Approach (My Toolbox)  Statistical Modeling  Bayesian Modeling Timeseries Analysis Statistical Machine Learning    Personal Experience  Education  BA in Urban Engineering, the University of Tokyo (2017/03) ME in Urban Engineering, the University of Tokyo (2019/03) Doctor of Engineering, in Urban Engineering Department of Urban Engineering, the University of Tokyo, the University of Tokyo (2022/03/24)   Others  Servey and research assistant in the coorporate research and servey comittee with Kanagawa prefecture police (2019) Researcher, PhD student at Real Estate Information Science Lab in Center for Spatial Information Science, The Unversity of Tokyo (2019-2022)    </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://hayato-n.github.io/WebPage/publications/</link>
+      <pubDate>Sun, 15 Jan 2023 20:11:48 +0900</pubDate>
+      
+      <guid>https://hayato-n.github.io/WebPage/publications/</guid>
+      <description>Google Scholar ResearchGate  審査論文 | Refereed Paper EN
+ Hayato Nishi, Yasushi Asami, Hiroki Baba, &amp;amp; Chihiro Shimizu (2023) &amp;ldquo;Scalable spatiotemporal regression model based on Moran’s eigenvectors&amp;rdquo;, International Journal of Geographical Information Scinence. Vol. 37, Issue: 1 pp.162-188, https://doi.org/10.1080/13658816.2022.2100891 Hayato Nishi, Yasushi Asami, Chihiro Shimizu, (2021) &amp;ldquo;The illusion of a hedonic price function: Nonparametric interpretable segmentation for hedonic inference&amp;rdquo;, Journal of Housing Economics, Vol. 52, https://doi.org/10.1016/j.jhe.2021.101764. Hayato Nishi, Yasushi Asami, Chihiro Shimizu, (2019) &amp;ldquo;Housing features and rent: estimating the microstructures of rental housing&amp;rdquo;, International Journal of Housing Markets and Analysis, Vol.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://hayato-n.github.io/WebPage/about/</link>
+      <pubDate>Sun, 15 Jan 2023 20:00:59 +0900</pubDate>
+      
+      <guid>https://hayato-n.github.io/WebPage/about/</guid>
+      <description>西 颯人 所属  一橋大学 ソーシャル・データサイエンス教育研究推進センター 特任助教 (2022/04-) 麗澤大学 特任研究員 (2022/04-) 東京大学 空間情報科学研究センター 客員研究員 (2022/05/10-)  専門・関心  統計的都市解析 住宅・不動産価格 都市の安全（犯罪・交通事故）  アプローチ  統計モデリング  ベイズモデリング 時系列解析 統計的機械学習    略歴  学歴  東京大学 工学部 都市工学科 都市計画コース 卒業 (2017/03) 東京大学大学院 工学系研究科 都市工学専攻 修士課程 修了 (2019/03) 東京大学大学院 工学系研究科 都市工学専攻 博士後期課程 修了 （博士（工学）） (2022/03/24)   その他  神奈川県警察 産学官連携による人工知能を活用した犯罪・交通事故発生予測技法の調査研究 研究調査委員会 調査研究補助者 (2019) 東京大学CSIS不動産情報科学研究室 博士課程在学研究員 (2019-2022)     Hayato Nishi Affiliation  Specially Appointed Research Associate in Center for the Promotion of Social Data Science Education and Research, Hitotsubashi University (2022/04-) Visiting Researcher in Center for Spatial Information Science, the University of Tokyo (2022/05/10-)  Specialization and Interest  Statistical Urban Analysis Price Function Structure of Housings and Real Estates Urban Safety (Crime and Traffic Accident)  Approach (My Toolbox)  Statistical Modeling  Bayesian Modeling Timeseries Analysis Statistical Machine Learning    Personal Experience  Education  BA in Urban Engineering, the University of Tokyo (2017/03) ME in Urban Engineering, the University of Tokyo (2019/03) Doctor of Engineering, in Urban Engineering Department of Urban Engineering, the University of Tokyo, the University of Tokyo (2022/03/24)   Others  Servey and research assistant in the coorporate research and servey comittee with Kanagawa prefecture police (2019) Researcher, PhD student at Real Estate Information Science Lab in Center for Spatial Information Science, The Unversity of Tokyo (2019-2022)    </description>
+    </item>
+    
+    <item>
+      <title>MendeleyからZoteroへの移行について</title>
+      <link>https://hayato-n.github.io/WebPage/blogs/20221013zotero/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayato-n.github.io/WebPage/blogs/20221013zotero/</guid>
+      <description>MendeleyからZoteroに文献管理を移行する場合に、いろいろと大変そうな手続きが必要であるような記事が多く見られましたが、実際にやってみると非常に簡単でした。似た状況で移行をためらっている方がいらっしゃるかもしれませんので、メモとして残しておきます。
+結論から言うと、Mendeleyのサーバーにすべての情報が同期されていて、かつZotero 6以上のバージョンを使用していれば、自動で文献情報をインポートできるようです。
+詳細および具体的な手続きは、以下のリンクを参照してください。
+kb:mendeley import [Zotero Documentation]
+おそらくですが、これまでいろいろな手続きが必要だったところに新しい機能が追加されて、簡単にできるようになったということだと思います。</description>
+    </item>
+    
+    <item>
+      <title>New paper was accepted in International Journal of Geographical Information Science.</title>
+      <link>https://hayato-n.github.io/WebPage/blogs/20220722/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayato-n.github.io/WebPage/blogs/20220722/</guid>
+      <description>Publications page was updated.
+We released the new paper “Scalable spatiotemporal regression model based on Moran’s eigenvectors” on International Journal of Geographical Information Science (Link to Paper). This is a joint work with Prof. Yasushi Asami, Prof. Chihiro Shimizu, and Dr. Hiroki Baba.</description>
+    </item>
+    
+    <item>
+      <title>一橋大学に着任しました。</title>
+      <link>https://hayato-n.github.io/WebPage/blogs/20220401/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayato-n.github.io/WebPage/blogs/20220401/</guid>
+      <description>一橋大学に特任助教として着任しました。
+I join Hitotsubashi University today as a Specially Appointed Research Associate.</description>
+    </item>
+    
+    <item>
+      <title>書籍『犯罪予測 ―AIによる分析―犯罪予測』が出版されました</title>
+      <link>https://hayato-n.github.io/WebPage/blogs/20220330/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayato-n.github.io/WebPage/blogs/20220330/</guid>
+      <description>成文堂から『犯罪予測 ―AIによる分析―』が出版されました。詳しくはbooks欄をご参照ください。</description>
+    </item>
+    
+    <item>
+      <title>Source codes for novel market segmentation method was uploaded.</title>
+      <link>https://hayato-n.github.io/WebPage/blogs/20210426/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayato-n.github.io/WebPage/blogs/20210426/</guid>
+      <description>Our source code for “The illusion of a hedonic price function: Nonparametric interpretable segmentation for hedonic inference” on Journal of Housing Economics (Link to Paper) was released.
+Please check Here!
+Additionally, Publications page was updated.</description>
+    </item>
+    
+    <item>
+      <title>Novel market segmentation method was published.</title>
+      <link>https://hayato-n.github.io/WebPage/blogs/20210311/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayato-n.github.io/WebPage/blogs/20210311/</guid>
+      <description>Publications page was updated.
+We released the new paper “The illusion of a hedonic price function: Nonparametric interpretable segmentation for hedonic inference” on Journal of Housing Economics (Link to Paper). It provides the theoretical motivation of market segmentation and proposes the novel automatic segmentation method. I will release the source codes for this novel method soon.</description>
+    </item>
+    
+    <item>
+      <title>書籍『不動産テック』が出版されました</title>
+      <link>https://hayato-n.github.io/WebPage/blogs/20201102/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayato-n.github.io/WebPage/blogs/20201102/</guid>
+      <description>朝倉書店から『不動産テック』が出版されました。詳しくはbooks欄をご参照ください。</description>
+    </item>
+    
+    <item>
+      <title>Update Publication Page</title>
+      <link>https://hayato-n.github.io/WebPage/blogs/20201014/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayato-n.github.io/WebPage/blogs/20201014/</guid>
+      <description>I updated the Publications page.</description>
+    </item>
+    
+    <item>
+      <title>Our poster is now on TGSW2020!</title>
+      <link>https://hayato-n.github.io/WebPage/blogs/20200918/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayato-n.github.io/WebPage/blogs/20200918/</guid>
+      <description>Our time-series analysis and clustering on crimes in London is now appearing in Tsukuba Global Science Week (TGSW) Digital poster session!
+Please check and give us comments!</description>
+    </item>
+    
+    <item>
+      <title>優秀賞を受賞しました！</title>
+      <link>https://hayato-n.github.io/WebPage/blogs/20200316/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayato-n.github.io/WebPage/blogs/20200316/</guid>
+      <description>都市住宅学会学生論文コンテスト（修士論文部門）で優秀賞を受賞しました！
+詳細はこちら</description>
+    </item>
+    
+    <item>
+      <title>Upload the BGMDS code!</title>
+      <link>https://hayato-n.github.io/WebPage/blogs/20190722/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayato-n.github.io/WebPage/blogs/20190722/</guid>
+      <description>I had a presentation about my method for visualization called *Bayesian Geographical Multi-Dimensional Scaling(BGMDS)&amp;quot;, and uploaded python source code HERE!</description>
+    </item>
+    
+    <item>
+      <title>感謝状を頂きました！</title>
+      <link>https://hayato-n.github.io/WebPage/blogs/20190610/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayato-n.github.io/WebPage/blogs/20190610/</guid>
+      <description>神奈川県警察より，産学官連携による人工知能を活用した犯罪・交通事故発生予測技法の調査研究への貢献から，感謝状を頂きました！</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hayato-n.github.io/WebPage/pages/1-publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayato-n.github.io/WebPage/pages/1-publications/</guid>
+      <description>Title: Publications
+ Google Scholar ResearchGate  審査論文 | Refereed Paper EN
+ Hayato Nishi, Yasushi Asami, Hiroki Baba, &amp;amp; Chihiro Shimizu (2023) &amp;ldquo;Scalable spatiotemporal regression model based on Moran’s eigenvectors&amp;rdquo;, International Journal of Geographical Information Scinence. Vol. 37, Issue: 1 pp.162-188, https://doi.org/10.1080/13658816.2022.2100891 Hayato Nishi, Yasushi Asami, Chihiro Shimizu, (2021) &amp;ldquo;The illusion of a hedonic price function: Nonparametric interpretable segmentation for hedonic inference&amp;rdquo;, Journal of Housing Economics, Vol. 52, https://doi.org/10.1016/j.jhe.2021.101764. Hayato Nishi, Yasushi Asami, Chihiro Shimizu, (2019) &amp;ldquo;Housing features and rent: estimating the microstructures of rental housing&amp;rdquo;, International Journal of Housing Markets and Analysis, Vol.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hayato-n.github.io/WebPage/pages/2-books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayato-n.github.io/WebPage/pages/2-books/</guid>
+      <description>Title: Books
+和文 清水千弘（編著）：『不動産テック』（FinTechライブラリ），朝倉書店(2020)  出版社Web Pageリンク 第４章：『不動産市場分析における統計・機械学習の利用』（西颯人・清水千弘）の執筆を担当しました。  ヘドニック分析をはじめとする不動産の価格分析や価格予測を行う際に用いられる統計・機械学習の手法について解説しました。 統計と機械学習の関係や間隔（感覚？）が分かるような内容を取り出して扱ったつもりです。仮説検定などはカバーしていません。 第４章サポートサイトでは、書籍の図を作成するために使用したソースコード(Python実装)を公開しています。基本的に、numpyもしくはscipyのみに依存しています。以下の内容を含みます。  線形回帰モデル（二乗損失）  最小二乗法 最尤推定法 Ridge回帰 ベイズ推定   分位点回帰（線形） ニューラルネットワーク  損失関数  MSE   線形レイヤ 活性化関数  Sigmoid ReLU   SGD        守山正（編著）：『犯罪予測 ―AIによる分析―』, 成文堂(2022)  出版社Web Pageリンク 第５章：『犯罪分析と統計学』（西颯人・守山正）と第７章：『AI活用による犯罪予測』（西颯人・守山正）の執筆を担当しました。  数式を使わずに統計的な犯罪分析と予測の考え方を理解できるように努めました。仮説検定や解釈上の注意点などを内容として含みます。    </description>
+    </item>
+    
+    
+    <item>
+      <title>不動産テック</title>
+      <link>https://hayato-n.github.io/WebPage/books/asakura/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayato-n.github.io/WebPage/books/asakura/</guid>
+      <description>清水千弘（編著）：『不動産テック』（FinTechライブラリ），朝倉書店(2020)  出版社Web Pageリンク 第４章：『不動産市場分析における統計・機械学習の利用』（西颯人・清水千弘）の執筆を担当しました。  ヘドニック分析をはじめとする不動産の価格分析や価格予測を行う際に用いられる統計・機械学習の手法について解説しました。 統計と機械学習の関係や間隔（感覚？）が分かるような内容を取り出して扱ったつもりです。仮説検定などはカバーしていません。 第４章サポートサイトでは、書籍の図を作成するために使用したソースコード(Python実装)を公開しています。基本的に、numpyもしくはscipyのみに依存しています。以下の内容を含みます。  線形回帰モデル（二乗損失）  最小二乗法 最尤推定法 Ridge回帰 ベイズ推定   分位点回帰（線形） ニューラルネットワーク  損失関数  MSE   線形レイヤ 活性化関数  Sigmoid ReLU   SGD        </description>
+    </item>
+    
+    <item>
+      <title>犯罪予測 ―AIによる分析―</title>
+      <link>https://hayato-n.github.io/WebPage/books/aicrime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayato-n.github.io/WebPage/books/aicrime/</guid>
+      <description>守山正（編著）：『犯罪予測 ―AIによる分析―』, 成文堂(2022)  出版社Web Pageリンク 第５章：『犯罪分析と統計学』（西颯人・守山正）と第７章：『AI活用による犯罪予測』（西颯人・守山正）の執筆を担当しました。  数式を使わずに統計的な犯罪分析と予測の考え方を理解できるように努めました。仮説検定や解釈上の注意点などを内容として含みます。    </description>
+    </item>
+    
+  </channel>
+</rss>

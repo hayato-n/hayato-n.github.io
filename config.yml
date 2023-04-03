@@ -3,7 +3,6 @@ languageCode : en
 title : "Hayato Nishi"
 theme : "PaperMod"
 defaultContentLanguage: en
-publishDir: "docs"
 canonifyurls: true
 # googleAnalytics: ""
 
