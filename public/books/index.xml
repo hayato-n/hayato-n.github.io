@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Books on Hayato Nishi</title>
-    <link>https://hayato-n.github.io/WebPage/books/</link>
+    <link>https://hayato-n.github.io/WebPageHugo/books/</link>
     <description>Recent content in Books on Hayato Nishi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://hayato-n.github.io/WebPage/books/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://hayato-n.github.io/WebPageHugo/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>不動産テック</title>
-      <link>https://hayato-n.github.io/WebPage/books/asakura/</link>
+      <link>https://hayato-n.github.io/WebPageHugo/books/asakura/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hayato-n.github.io/WebPage/books/asakura/</guid>
+      <guid>https://hayato-n.github.io/WebPageHugo/books/asakura/</guid>
       <description>清水千弘（編著）：『不動産テック』（FinTechライブラリ），朝倉書店(2020)  出版社Web Pageリンク 第４章：『不動産市場分析における統計・機械学習の利用』（西颯人・清水千弘）の執筆を担当しました。  ヘドニック分析をはじめとする不動産の価格分析や価格予測を行う際に用いられる統計・機械学習の手法について解説しました。 統計と機械学習の関係や間隔（感覚？）が分かるような内容を取り出して扱ったつもりです。仮説検定などはカバーしていません。 第４章サポートサイトでは、書籍の図を作成するために使用したソースコード(Python実装)を公開しています。基本的に、numpyもしくはscipyのみに依存しています。以下の内容を含みます。  線形回帰モデル（二乗損失）  最小二乗法 最尤推定法 Ridge回帰 ベイズ推定   分位点回帰（線形） ニューラルネットワーク  損失関数  MSE   線形レイヤ 活性化関数  Sigmoid ReLU   SGD        </description>
     </item>
     
     <item>
       <title>犯罪予測 ―AIによる分析―</title>
-      <link>https://hayato-n.github.io/WebPage/books/aicrime/</link>
+      <link>https://hayato-n.github.io/WebPageHugo/books/aicrime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hayato-n.github.io/WebPage/books/aicrime/</guid>
+      <guid>https://hayato-n.github.io/WebPageHugo/books/aicrime/</guid>
       <description>守山正（編著）：『犯罪予測 ―AIによる分析―』, 成文堂(2022)  出版社Web Pageリンク 第５章：『犯罪分析と統計学』（西颯人・守山正）と第７章：『AI活用による犯罪予測』（西颯人・守山正）の執筆を担当しました。  数式を使わずに統計的な犯罪分析と予測の考え方を理解できるように努めました。仮説検定や解釈上の注意点などを内容として含みます。    </description>
     </item>
     

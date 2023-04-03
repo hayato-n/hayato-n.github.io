@@ -3,7 +3,15 @@ languageCode : en
 title : "Hayato Nishi"
 theme : "PaperMod"
 defaultContentLanguage: en
-canonifyurls: true
+
+# canonifyurls: true
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
 # googleAnalytics: ""
 
 menu:
@@ -36,9 +44,9 @@ params:
         enabled: true
         # title: "test" # optional default will be site title
         subtitle: "Statistical Urban Analysis"
-        imageUrl: "/content/images/Face.jpg" # optional
+        imageUrl: "https://github.com/hayato-n/WebPageHugo/blob/master/content/images/Face.jpg?raw=true" # optional
         imageTitle: "portrait" # optional
-        imageWidth: 120 # custom size
+        imageWidth: 150 # custom size
         imageHeight: 120 # custom size
         buttons:
             - name: About Me
