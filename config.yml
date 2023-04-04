@@ -12,7 +12,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-# googleAnalytics: ""
+googleAnalytics: G-S13HX4WHY3
 
 menu:
     main:
@@ -35,9 +35,17 @@ menu:
         # - name: search
         #   url: search/
         #   weight: 5
-        - identifier: tags
-          name: tags
-          url: tags
+        # - identifier: others
+        #   name: others
+        #   url: /others
+        #   weight: 5
+        - name: tags
+          # parent: others
+          url: /tags
+          weight: 5
+        - name: privacy policy
+          # parent: others
+          url: /privacy-policy
           weight: 5
 
 outputs:
