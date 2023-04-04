@@ -6,11 +6,13 @@ tag: ["page"]
 
 - [**Google Scholar**](https://scholar.google.com/citations?user=HrEhRyEAAAAJ&hl=ja&oi=ao)
 - [**ResearchGate**](https://www.researchgate.net/profile/Hayato-Nishi)
+- [**researchmap**](https://researchmap.jp/hnishiua)
 
 # 審査論文 | Refereed Paper
 
 **EN**
 
+- Yoshifumi Wada, Yasushi Asami, Kimihiro Hino, Hayato Nishi, Shino Shiode, and Narushige Shiode. (2023). "Road Junction Configurations and the Severity of Traffic Accidents in Japan" Sustainability Vol. 15, Issue. 3: 2722. https://doi.org/10.3390/su15032722
 - Hayato Nishi, Yasushi Asami, Hiroki Baba, & Chihiro Shimizu (2023) "Scalable spatiotemporal regression model based on Moran’s eigenvectors", International Journal of Geographical Information Scinence. Vol. 37, Issue: 1 pp.162-188, https://doi.org/10.1080/13658816.2022.2100891
 - Hayato Nishi, Yasushi Asami, Chihiro Shimizu, (2021) "The illusion of a hedonic price function: Nonparametric interpretable segmentation for hedonic inference", Journal of Housing Economics, Vol. 52, https://doi.org/10.1016/j.jhe.2021.101764.
 - Hayato Nishi, Yasushi Asami, Chihiro Shimizu, (2019) "Housing features and rent: estimating the microstructures of rental housing", International Journal of Housing Markets and Analysis, Vol. 12 Issue: 2, pp.210-225, https://doi.org/10.1108/IJHMA-09-2018-0067

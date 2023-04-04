@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Hayato Nishi</title>
-    <link>https://hayato-n.github.io/WebPageHugo/categories/</link>
+    <link>https://hayato-n.github.io/categories/</link>
     <description>Recent content in Categories on Hayato Nishi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://hayato-n.github.io/WebPageHugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://hayato-n.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

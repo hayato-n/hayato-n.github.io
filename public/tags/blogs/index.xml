@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blogs on Hayato Nishi</title>
-    <link>https://hayato-n.github.io/blogs/</link>
-    <description>Recent content in Blogs on Hayato Nishi</description>
+    <title>blogs on Hayato Nishi</title>
+    <link>https://hayato-n.github.io/tags/blogs/</link>
+    <description>Recent content in blogs on Hayato Nishi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hayato-n.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hayato-n.github.io/tags/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MendeleyからZoteroへの移行について</title>
       <link>https://hayato-n.github.io/blogs/20221013zotero/</link>

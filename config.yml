@@ -32,13 +32,28 @@ menu:
           name: Blogs
           url: /Blogs/
           weight: 4
+        # - name: search
+        #   url: search/
+        #   weight: 5
         - identifier: tags
           name: tags
           url: tags
           weight: 5
 
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
 params:
-    regularMode:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    author: Hayato Nishi
+
+    ShowReadingTime: true
+
+    ShowToc: true
+    TocOpen: true
 
     profileMode:
         enabled: true
@@ -67,3 +82,5 @@ params:
         url: "https://scholar.google.com/citations?user=HrEhRyEAAAAJ"
       - name: "researchgate"
         url: "https://www.researchgate.net/profile/Hayato-Nishi"
+      - name: "other"
+        url: "https://researchmap.jp/hnishiua"

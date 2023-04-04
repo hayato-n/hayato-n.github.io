@@ -4,11 +4,12 @@ date: 2023-01-15T20:00:59+09:00
 tag: ["page", "about"]
 ---
 
-# 西 颯人
+# 西 颯人 (in Japanese)
 
 ## 所属
 
-- 一橋大学 ソーシャル・データサイエンス教育研究推進センター 特任助教 (2022/04-)
+- 一橋大学 大学院 ソーシャル・データサイエンス研究科 特任助教 (2023/04-)
+- 一橋大学 ソーシャル・データサイエンス教育研究推進センター 特任助教 (2022/04-2023/03)
 - 麗澤大学 特任研究員 (2022/04-)
 - 東京大学 空間情報科学研究センター 客員研究員 (2022/05/10-)
 
@@ -37,11 +38,11 @@ tag: ["page", "about"]
 
 ----
 
-# Hayato Nishi
+# Hayato Nishi (in English)
 
 ## Affiliation
-
-- Specially Appointed Research Associate in Center for the Promotion of Social Data Science Education and Research, Hitotsubashi University (2022/04-)
+- Specially Appointed Research Associate in Graduate School of Social Data Science, Hitotsubashi University (2023/04-)
+- Specially Appointed Research Associate in Center for the Promotion of Social Data Science Education and Research, Hitotsubashi University (2022/04-2023/03)
 - Visiting Researcher in Center for Spatial Information Science, the University of Tokyo (2022/05/10-)
 
 ## Specialization and Interest
