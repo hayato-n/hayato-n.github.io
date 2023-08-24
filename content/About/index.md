@@ -32,6 +32,7 @@ tag: ["page", "about"]
     - 東京大学 工学部 都市工学科 都市計画コース 卒業 (2017/03)
     - 東京大学大学院 工学系研究科 都市工学専攻 修士課程 修了 (2019/03)
     - [東京大学大学院 工学系研究科 都市工学専攻][1] 博士後期課程 修了 （博士（工学）） (2022/03/24)
+    - 統計数理研究所実施・文部科学省助成「[大学統計教員育成研修][ism_training]」研修中 (2023/04-)
 - その他
     - 神奈川県警察 産学官連携による人工知能を活用した犯罪・交通事故発生予測技法の調査研究 研究調査委員会 調査研究補助者 (2019)
     - [東京大学CSIS不動産情報科学研究室][2] 博士課程在学研究員 (2019-2022)
@@ -64,6 +65,8 @@ tag: ["page", "about"]
     - BA in Urban Engineering, the University of Tokyo (2017/03)
     - ME in Urban Engineering, the University of Tokyo (2019/03)
     - Doctor of Engineering, in Urban Engineering [Department of Urban Engineering, the University of Tokyo][1], the University of Tokyo (2022/03/24)
+    - In progress, [Statistics Professors Training Program][ism_training_en] in Consortium for Training Experts in Statistical Sciences, The Institute of Statistical Mathematics (ISM), supported by  the Ministry of Education, Culture, Sports, Science and Technology (MEXT) (2023/04-)
+
 - Others
     - Servey and research assistant in the coorporate research and servey comittee with Kanagawa prefecture police (2019)
     - Researcher, PhD student at [Real Estate Information Science Lab][2] in Center for Spatial Information Science, The Unversity of Tokyo (2019-2022)
@@ -72,3 +75,5 @@ tag: ["page", "about"]
 [1]:http://www.due.t.u-tokyo.ac.jp
 [2]:https://shmzlab.jp/main/
 [3]:https://www.sds.hit-u.ac.jp/
+[ism_training]:https://stat-expert.ism.ac.jp/training/outline03/
+[ism_training_en]:https://stat-expert.ism.ac.jp/en/

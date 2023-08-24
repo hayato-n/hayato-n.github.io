@@ -4,6 +4,9 @@ date: 2023-01-15T20:11:48+09:00
 tag: ["page"]
 ---
 
+
+See also
+
 - [**Google Scholar**](https://scholar.google.com/citations?user=HrEhRyEAAAAJ&hl=ja&oi=ao)
 - [**ResearchGate**](https://www.researchgate.net/profile/Hayato-Nishi)
 - [**researchmap**](https://researchmap.jp/hnishiua)
