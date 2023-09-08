@@ -56,6 +56,7 @@ See also
 
 **EN**
 
+- Hayato Nishi and Ikuho Yamada, Counter-Intuitive Effect of Null Hypothesis on Moran’s I tests under Heterogenous Populations, 12th International Conference on Geographic Information Science (GIScience 2023), Leeds (2023/09/14), https://doi.org/10.4230/LIPIcs.GIScience.2023.56
 - Hayato Nishi and Yasushi Asami, Bayesian Geographical Multi-Dimensional Scaling, Abstract on International Cartographic Conference, Tokyo (2019).
 
 # 審査なし学会発表 | Non-Refereed Conference Presentation
@@ -69,6 +70,7 @@ See also
 
 **JP**
 
+- 西颯人, 山田育穂. "異質な人口と期待値を想定した空間的自己相関検定における偽陽性率の近似計算", 統計関連学会連合大会 (コンペセッション講演), 京都, (2023/09/05)
 - 西颯人, 山田育穂. "推定誤差の地域差を考慮したMoran’s I分布の補正" CSIS DAYS 2022 (オンライン口頭発表), 柏, (2022/11/18)
 - 西颯人, 山田育穂. "未知パラメータに対する空間的自己相関の検定 -推定誤差を考慮したMoran’s Iの分布-" 第31回 地理情報システム学会 学術研究発表大会, 沖縄, (2022/10/29)
 - 西颯人, 樋野公宏．"犯罪・交通事故の発生件数データを対象とした時系列解析モデルと分析ツールの開発" 日本オペレーションズ・リサーチ学会秋季研究発表会 (2019).
