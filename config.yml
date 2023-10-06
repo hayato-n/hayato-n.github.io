@@ -32,6 +32,10 @@ menu:
           name: Blogs
           url: /Blogs/
           weight: 4
+        - identifier: Lectures
+          name: Lectures
+          url: /Lectures/
+          weight: 4
         # - name: search
         #   url: search/
         #   weight: 5
