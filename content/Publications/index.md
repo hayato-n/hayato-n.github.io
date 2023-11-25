@@ -15,6 +15,7 @@ See also
 
 **EN**
 
+- Nishi, H., & Asami, Y. (2023). Stochastic gradient geographical weighted regression (sgGWR): Scalable bandwidth optimization for geographically weighted regression. International Journal of Geographical Information Science, Latest Articles. https://doi.org/10.1080/13658816.2023.2285471
 - Nasushige Shiode, Shino Shiode, Hayato Nishi, & Kimihiro Hino (2023). "Seasonal characteristics of crime: an empirical investigation of the temporal fluctuation of the different types of crime in London". Computational Urban Science, 3, 19. https://doi.org/10.1007/s43762-023-00094-x
 - Yoshifumi Wada, Yasushi Asami, Kimihiro Hino, Hayato Nishi, Shino Shiode, and Narushige Shiode. (2023). "Road Junction Configurations and the Severity of Traffic Accidents in Japan" Sustainability Vol. 15, Issue. 3: 2722. https://doi.org/10.3390/su15032722
 - Hayato Nishi, Yasushi Asami, Hiroki Baba, & Chihiro Shimizu (2023) "Scalable spatiotemporal regression model based on Moran’s eigenvectors", International Journal of Geographical Information Scinence. Vol. 37, Issue: 1 pp.162-188, https://doi.org/10.1080/13658816.2022.2100891
