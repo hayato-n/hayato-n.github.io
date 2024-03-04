@@ -15,7 +15,7 @@ See also
 
 **EN**
 
-- Hayato Nishi, & Yasushi Asami (2023). "Stochastic gradient geographical weighted regression (sgGWR): Scalable bandwidth optimization for geographically weighted regression. International Journal of Geographical Information Science", Latest Articles. https://doi.org/10.1080/13658816.2023.2285471
+- Hayato Nishi, & Yasushi Asami (2024). "Stochastic gradient geographical weighted regression (sgGWR): Scalable bandwidth optimization for geographically weighted regression. International Journal of Geographical Information Science", Vol. 38, Issue: 2 pp.354-380, https://doi.org/10.1080/13658816.2023.2285471
 - Nasushige Shiode, Shino Shiode, Hayato Nishi, & Kimihiro Hino (2023). "Seasonal characteristics of crime: an empirical investigation of the temporal fluctuation of the different types of crime in London". Computational Urban Science, 3, 19. https://doi.org/10.1007/s43762-023-00094-x
 - Yoshifumi Wada, Yasushi Asami, Kimihiro Hino, Hayato Nishi, Shino Shiode, and Narushige Shiode. (2023). "Road Junction Configurations and the Severity of Traffic Accidents in Japan" Sustainability Vol. 15, Issue. 3: 2722. https://doi.org/10.3390/su15032722
 - Hayato Nishi, Yasushi Asami, Hiroki Baba, & Chihiro Shimizu (2023) "Scalable spatiotemporal regression model based on Moran’s eigenvectors", International Journal of Geographical Information Scinence. Vol. 37, Issue: 1 pp.162-188, https://doi.org/10.1080/13658816.2022.2100891
@@ -43,6 +43,7 @@ See also
 
 **JP**
 
+-
 - 西颯人 "地域評価に関する基礎的検討 –主観的地域満足度を例にして–" CSIS Discussion Paper No.176 (2022)
 - 西颯人, 浅見泰司, and 清水千弘. "CSIS Discussion Paper No. 153 住宅設備と賃料." (2018).
 
@@ -50,6 +51,8 @@ See also
 
 **JP**
 
+- 国友直人（編集）"日本の消費者物価指数を巡る課題", 統計エキスパート人材育成コンソーシアム ディスカッションペーパー, 第5章(2024)
+- 国友直人、湯浅良太、西颯人、趙宇、中西正 "統計エキスパート演習2023", 統計エキスパート人材育成コンソーシアム ディスカッションペーパー, 第1,4,5章, (2024)
 - 西颯人 "立地と時点による不均一性を考慮した不動産価格モデルとその高速な計算法", ARES不動産証券化ジャーナル, Vol.70, p.30-38 (2022).
 - 西颯人, 浅見泰司, 清水千弘, "住宅価格関数の「幻想」と市場分割アルゴリズム" 季刊住宅土地経済, No.122 (2021).
 - 西颯人, 浅見泰司, 清水千弘, "住宅設備と賃料" 季刊住宅土地経済, No.116 Spring (2020).
@@ -94,11 +97,13 @@ See also
 
 **EN**
 
-| Journal                                               |    # |
-| :---------------------------------------------------- | ---: |
-| International Journal of Housing Markets and Analysis |    1 |
-| GeoJournal                                            |    1 |
-| Journal of Regional Science                           |    1 |
+| Journal                                                   |    # |
+| :-------------------------------------------------------- | ---: |
+| International Journal of Housing Markets and Analysis     |    1 |
+| GeoJournal                                                |    1 |
+| Journal of Regional Science                               |    1 |
+| Japan Architectural Review                                |    1 |
+| International Journal of Geographical Information Science |    1 |
 
 **JP**
 
