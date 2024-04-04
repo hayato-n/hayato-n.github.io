@@ -15,10 +15,10 @@ See also
 
 **EN**
 
-- Hayato Nishi, & Yasushi Asami (2024). "Stochastic gradient geographical weighted regression (sgGWR): Scalable bandwidth optimization for geographically weighted regression. International Journal of Geographical Information Science", Vol. 38, Issue: 2 pp.354-380, https://doi.org/10.1080/13658816.2023.2285471
+- Hayato Nishi, & Yasushi Asami (2024). "Stochastic gradient geographical weighted regression (sgGWR): Scalable bandwidth optimization for geographically weighted regression". International Journal of Geographical Information Science, Vol. 38, Issue: 2 pp.354-380, https://doi.org/10.1080/13658816.2023.2285471
 - Nasushige Shiode, Shino Shiode, Hayato Nishi, & Kimihiro Hino (2023). "Seasonal characteristics of crime: an empirical investigation of the temporal fluctuation of the different types of crime in London". Computational Urban Science, 3, 19. https://doi.org/10.1007/s43762-023-00094-x
 - Yoshifumi Wada, Yasushi Asami, Kimihiro Hino, Hayato Nishi, Shino Shiode, and Narushige Shiode. (2023). "Road Junction Configurations and the Severity of Traffic Accidents in Japan" Sustainability Vol. 15, Issue. 3: 2722. https://doi.org/10.3390/su15032722
-- Hayato Nishi, Yasushi Asami, Hiroki Baba, & Chihiro Shimizu (2023) "Scalable spatiotemporal regression model based on Moran’s eigenvectors", International Journal of Geographical Information Scinence. Vol. 37, Issue: 1 pp.162-188, https://doi.org/10.1080/13658816.2022.2100891
+- Hayato Nishi, Yasushi Asami, Hiroki Baba, & Chihiro Shimizu (2023) "Scalable spatiotemporal regression model based on Moran’s eigenvectors", International Journal of Geographical Information Science. Vol. 37, Issue: 1 pp.162-188, https://doi.org/10.1080/13658816.2022.2100891
 - Hayato Nishi, Yasushi Asami, Chihiro Shimizu, (2021) "The illusion of a hedonic price function: Nonparametric interpretable segmentation for hedonic inference", Journal of Housing Economics, Vol. 52, https://doi.org/10.1016/j.jhe.2021.101764.
 - Hayato Nishi, Yasushi Asami, Chihiro Shimizu, (2019) "Housing features and rent: estimating the microstructures of rental housing", International Journal of Housing Markets and Analysis, Vol. 12 Issue: 2, pp.210-225, https://doi.org/10.1108/IJHMA-09-2018-0067
 
@@ -26,6 +26,7 @@ See also
 
 - 西 颯人, 浅見 泰司, 東京23区の土地取引価格の中心駅 ― ヘドニック分析における中心駅の選択, 都市計画論文集, 2023, 58 巻, 3号, p.501-507, https://doi.org/10.11361/journalcpij.58.501.
 - 西 颯人, 浅見 泰司, 地理的制約条件に基づく統計的多次元尺度構成法, 都市計画論文集, 2019, 54 巻, 3号, p. 826-832, https://doi.org/10.11361/journalcpij.54.826
+  - <a id="BGMDS_JP"></a>[English Version](#BGMDS_EN)
 
 # 審査なし論文 | Non-Refereed Paper
 
@@ -43,7 +44,8 @@ See also
 
 **JP**
 
--
+- 国友直人（編集）"日本の消費者物価指数を巡る課題", 統計エキスパート人材育成コンソーシアム ディスカッションペーパー, 第5章(2024)
+- 国友直人、湯浅良太、西颯人、趙宇、中西正 "統計エキスパート演習2023", 統計エキスパート人材育成コンソーシアム ディスカッションペーパー, 第1,4,5章, (2024)
 - 西颯人 "地域評価に関する基礎的検討 –主観的地域満足度を例にして–" CSIS Discussion Paper No.176 (2022)
 - 西颯人, 浅見泰司, and 清水千弘. "CSIS Discussion Paper No. 153 住宅設備と賃料." (2018).
 
@@ -51,8 +53,6 @@ See also
 
 **JP**
 
-- 国友直人（編集）"日本の消費者物価指数を巡る課題", 統計エキスパート人材育成コンソーシアム ディスカッションペーパー, 第5章(2024)
-- 国友直人、湯浅良太、西颯人、趙宇、中西正 "統計エキスパート演習2023", 統計エキスパート人材育成コンソーシアム ディスカッションペーパー, 第1,4,5章, (2024)
 - 西颯人 "立地と時点による不均一性を考慮した不動産価格モデルとその高速な計算法", ARES不動産証券化ジャーナル, Vol.70, p.30-38 (2022).
 - 西颯人, 浅見泰司, 清水千弘, "住宅価格関数の「幻想」と市場分割アルゴリズム" 季刊住宅土地経済, No.122 (2021).
 - 西颯人, 浅見泰司, 清水千弘, "住宅設備と賃料" 季刊住宅土地経済, No.116 Spring (2020).
@@ -81,6 +81,13 @@ See also
 - 西颯人, 樋野公宏．"犯罪・交通事故の発生件数データを対象とした時系列解析モデルと分析ツールの開発" 日本オペレーションズ・リサーチ学会秋季研究発表会 (2019).
 
 # 書籍 | Books
+
+**EN**
+
+- Nishi, H., \& Asami, Y. (2024). Statistical Multi-dimensional Scaling with a Geographical Penalty. In Y. Asami, Y. Sadahiro, I. Yamada, \& K. Hino (Eds.), Studies in Housing and Urban Analysis in Japan (pp. 153–168). Springer Nature. https://doi.org/10.1007/978-981-99-8027-7_9
+  - <a id="BGMDS_EN"></a> This is an English version of [西・浅見(2019)](#BGMDS_JP).
+
+**JP**
 
 - 西颯人、守山正. 2022. 5章:犯罪分析と統計学, 7章:AI活用による犯罪予測. In 守山正（編著）. 犯罪予測 ―AIによる分析―. 成文堂. 2022年3月 ISBN 978-4-7923-5361-2
 - 西颯人、清水千弘. 2020. 4章:不動産市場分析における統計・機械学習の利用. In 清水千弘編. 不動産テック. 朝倉書店. 2020年10月. ISBN 978-4-254-27587-2

@@ -71,7 +71,8 @@ params:
         enabled: true
         # title: "test" # optional default will be site title
         subtitle: "Statistical Urban Analysis"
-        imageUrl: "https://github.com/hayato-n/hayato-n.github.io/blob/master/content/images/Face.jpg?raw=true" # optional
+        imageUrl: "https://github.com/hayato-n/hayato-n.github.io/blob/master/content/images/portrait_up.jpg?raw=true" # optional
+        # imageUrl: "https://github.com/hayato-n/hayato-n.github.io/blob/master/content/images/Face.jpg?raw=true" # optional
         imageTitle: "portrait" # optional
         imageWidth: 150 # custom size
         imageHeight: 120 # custom size
