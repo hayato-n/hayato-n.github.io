@@ -84,6 +84,6 @@ tag: ["page", "about"]
 [1]:http://www.due.t.u-tokyo.ac.jp
 [2]:https://shmzlab.jp/main/
 [3]:https://www.sds.hit-u.ac.jp/
-[crei]:[https://www.crei.e.u-tokyo.ac.jp/]
+[crei]:https://www.crei.e.u-tokyo.ac.jp/
 [ism_training]:https://stat-expert.ism.ac.jp/training/outline03/
 [ism_training_en]:https://stat-expert.ism.ac.jp/en/
