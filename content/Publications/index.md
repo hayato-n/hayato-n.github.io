@@ -110,7 +110,7 @@ See also
 | GeoJournal                                                |    1 |
 | Journal of Regional Science                               |    1 |
 | Japan Architectural Review                                |    1 |
-| International Journal of Geographical Information Science |    1 |
+| International Journal of Geographical Information Science |    2 |
 
 **JP**
 
