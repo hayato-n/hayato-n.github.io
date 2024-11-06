@@ -15,6 +15,7 @@ See also
 
 **EN**
 
+- Yuan, Lang, Kojiro Sho, Sunyong Eom, Hayato Nishi, Daisuke Hasegawa, Han Zhao, Takashi Aoki, Jiarui Zhu, Kaoru Matsuo, and Akinobu Masumura (2024). “Changes in Visitor Behaviour across COVID-19 Pandemic: Unveiling Urban Visitation Dynamics and Non-Linear Relationships with the Built Environment Using Mobile Big Data.” Habitat International 154 (December):103216. https://doi.org/10.1016/j.habitatint.2024.103216.
 - Hayato Nishi, & Yasushi Asami (2024). "Stochastic gradient geographical weighted regression (sgGWR): Scalable bandwidth optimization for geographically weighted regression". International Journal of Geographical Information Science, Vol. 38, Issue: 2 pp.354-380, https://doi.org/10.1080/13658816.2023.2285471
 - Nasushige Shiode, Shino Shiode, Hayato Nishi, & Kimihiro Hino (2023). "Seasonal characteristics of crime: an empirical investigation of the temporal fluctuation of the different types of crime in London". Computational Urban Science, 3, 19. https://doi.org/10.1007/s43762-023-00094-x
 - Yoshifumi Wada, Yasushi Asami, Kimihiro Hino, Hayato Nishi, Shino Shiode, and Narushige Shiode. (2023). "Road Junction Configurations and the Severity of Traffic Accidents in Japan" Sustainability Vol. 15, Issue. 3: 2722. https://doi.org/10.3390/su15032722
