@@ -59,8 +59,8 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
-        include-hidden-files: true
         with:
+          include-hidden-files: true
           path: ./public
 
   # Deployment job
