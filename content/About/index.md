@@ -17,6 +17,7 @@ tag: ["page", "about"]
 ## 専門・関心
 
 - 統計的都市解析
+- 都市データサイエンス
 - 住宅・不動産価格
 - 都市の安全（犯罪・交通事故）
 
@@ -24,7 +25,7 @@ tag: ["page", "about"]
 
 - 統計モデリング
     - ベイズモデリング
-    - 時系列解析
+    - 空間統計
     - 統計的機械学習
 
 ## 略歴
@@ -58,6 +59,7 @@ tag: ["page", "about"]
 ## Specialization and Interest
 
 - Statistical Urban Analysis
+- Urban Data Science
 - Price Function Structure of Housings and Real Estates
 - Urban Safety (Crime and Traffic Accident)
 
@@ -65,7 +67,7 @@ tag: ["page", "about"]
 
 - Statistical Modeling
     - Bayesian Modeling
-    - Timeseries Analysis
+    - Spatial Statistics
     - Statistical Machine Learning
 
 ## Personal Experience
