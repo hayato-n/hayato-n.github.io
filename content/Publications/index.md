@@ -14,7 +14,7 @@ See also
 # 審査論文 | Refereed Paper
 
 **EN**
-
+- Liu, Qiyuan, Hayato Nishi, Jen-Jia Lin, and Kojiro Sho. 2025. “Driving Factors of Gentrification: Evidence from the Three Major Metropolitan Areas of Japan.” Cities 167 (December): 106318. https://doi.org/10.1016/j.cities.2025.106318.
 - Yuan, Lang, Kojiro Sho, Sunyong Eom, Hayato Nishi, Daisuke Hasegawa, Han Zhao, Takashi Aoki, Jiarui Zhu, Kaoru Matsuo, and Akinobu Masumura (2024). “Changes in Visitor Behaviour across COVID-19 Pandemic: Unveiling Urban Visitation Dynamics and Non-Linear Relationships with the Built Environment Using Mobile Big Data.” Habitat International 154 (December):103216. https://doi.org/10.1016/j.habitatint.2024.103216.
 - Hayato Nishi, & Yasushi Asami (2024). "Stochastic gradient geographical weighted regression (sgGWR): Scalable bandwidth optimization for geographically weighted regression". International Journal of Geographical Information Science, Vol. 38, Issue: 2 pp.354-380, https://doi.org/10.1080/13658816.2023.2285471
 - Nasushige Shiode, Shino Shiode, Hayato Nishi, & Kimihiro Hino (2023). "Seasonal characteristics of crime: an empirical investigation of the temporal fluctuation of the different types of crime in London". Computational Urban Science, 3, 19. https://doi.org/10.1007/s43762-023-00094-x
@@ -96,6 +96,33 @@ See also
 - 西颯人、守山正. 2022. 5章:犯罪分析と統計学, 7章:AI活用による犯罪予測. In 守山正（編著）. 犯罪予測 ―AIによる分析―. 成文堂. 2022年3月 ISBN 978-4-7923-5361-2
 - 西颯人、清水千弘. 2020. 4章:不動産市場分析における統計・機械学習の利用. In 清水千弘編. 不動産テック. 朝倉書店. 2020年10月. ISBN 978-4-254-27587-2
 
+# 競争的研究費 | Grant
+
+**JP**
+
+- 科研費
+  - 基盤研究(B)「特殊詐欺に「騙されても被害に至らない」社会システムの構築に向けた実証研究」
+    - 研究分担者（研究代表者：雨宮護）
+    - 2025-04-01 – 2029-03-31
+    - 研究課題/領域番号	25K01448
+    - https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K01448/
+  - 若手研究「大規模空間回帰モデル推定のための汎用的な手法開発」
+    - 研究代表者
+    - 2024-04-01 – 2029-03-31
+    - 研究課題/領域番号	24K17467
+    - https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K17467/
+  - 基盤研究(B)「東京圏における賃貸住宅の市場滞留期間に関する研究」
+    - 研究分担者（研究代表者：浅見泰司）
+    - 2023-04-01 – 2028-03-31
+    - 研究課題/領域番号	23K25507
+    - 補助金の研究課題番号	23H00810 (2023)
+    - https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K25507/
+  - 学振
+- その他
+  - 一般社団法人 不動産流通経営協会 研究助成「企業規模による賃貸住宅流通の比較」
+    - 2024年度
+    - https://www.frk.or.jp/kenkyu_jyosei/2024.html
+
 # 受賞 | Award
 
 **JP**
@@ -123,3 +150,4 @@ See also
 | 雑誌             | 査読回数 |
 | :--------------- | -------: |
 | GIS -理論と応用- |        1 |
+| 都市計画論文集   |        1 |
