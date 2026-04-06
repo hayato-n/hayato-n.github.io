@@ -14,6 +14,7 @@ See also
 # 審査論文 | Refereed Paper
 
 **EN**
+1. Zhang, Beibei, Kimihiro Hino, and Hayato Nishi. 2026. “Financialized Loss: The Hidden Frontier of Housing Financialization.” Urban Science 10(4):190. doi:10.3390/urbansci10040190.
 1. Liu, Qiyuan, Hayato Nishi, Jen-Jia Lin, and Kojiro Sho. 2025. “Driving Factors of Gentrification: Evidence from the Three Major Metropolitan Areas of Japan.” Cities 167 (December): 106318. https://doi.org/10.1016/j.cities.2025.106318.
 1. Yuan, Lang, Kojiro Sho, Sunyong Eom, Hayato Nishi, Daisuke Hasegawa, Han Zhao, Takashi Aoki, Jiarui Zhu, Kaoru Matsuo, and Akinobu Masumura (2024). “Changes in Visitor Behaviour across COVID-19 Pandemic: Unveiling Urban Visitation Dynamics and Non-Linear Relationships with the Built Environment Using Mobile Big Data.” Habitat International 154 (December):103216. https://doi.org/10.1016/j.habitatint.2024.103216.
 1. Hayato Nishi, & Yasushi Asami (2024). "Stochastic gradient geographical weighted regression (sgGWR): Scalable bandwidth optimization for geographically weighted regression". International Journal of Geographical Information Science, Vol. 38, Issue: 2 pp.354-380, https://doi.org/10.1080/13658816.2023.2285471
@@ -25,10 +26,11 @@ See also
 
 **JP**
 
-1. 西 颯人, 浅見 泰司, 田中 和氏, 賃貸住宅市場における空室期間と賃料の関係, 都市計画論文集, 2025, 60 巻, 3 号, p. 1635-1642, https://doi.org/10.11361/journalcpij.
-1. 西 颯人, 浅見 泰司, 東京23区におけるアクセス性指標としての鉄道移動時間データと直線距離の比較 ― 土地取引価格のヘドニック分析を用いて, 都市計画論文集, 2024, 59 巻, 3号, p.1179-1185, https://doi.org/10.11361/journalcpij.59.1179.
-1. 西 颯人, 浅見 泰司, 東京23区の土地取引価格の中心駅 ― ヘドニック分析における中心駅の選択, 都市計画論文集, 2023, 58 巻, 3号, p.501-507, https://doi.org/10.11361/journalcpij.58.501.
-1. 西 颯人, 浅見 泰司, 地理的制約条件に基づく統計的多次元尺度構成法, 都市計画論文集, 2019, 54 巻, 3号, p. 826-832, https://doi.org/10.11361/journalcpij.54.826
+1. 宮岸 凌也, 樋野 公宏, 西 颯人, 浅見 泰司, 郊外地域における買い物施設へのアクセシビリティと地価の関係の地域差, 日本建築学会計画系論文集, 2026, 91 巻, 842 号, p. 862-868, 公開日 2026/04/01, Online ISSN 1881-8161, Print ISSN 1340-4210, https://doi.org/10.3130/aija.91.862
+2. 西 颯人, 浅見 泰司, 田中 和氏, 賃貸住宅市場における空室期間と賃料の関係, 都市計画論文集, 2025, 60 巻, 3 号, p. 1635-1642, https://doi.org/10.11361/journalcpij.
+3. 西 颯人, 浅見 泰司, 東京23区におけるアクセス性指標としての鉄道移動時間データと直線距離の比較 ― 土地取引価格のヘドニック分析を用いて, 都市計画論文集, 2024, 59 巻, 3号, p.1179-1185, https://doi.org/10.11361/journalcpij.59.1179.
+4. 西 颯人, 浅見 泰司, 東京23区の土地取引価格の中心駅 ― ヘドニック分析における中心駅の選択, 都市計画論文集, 2023, 58 巻, 3号, p.501-507, https://doi.org/10.11361/journalcpij.58.501.
+5. 西 颯人, 浅見 泰司, 地理的制約条件に基づく統計的多次元尺度構成法, 都市計画論文集, 2019, 54 巻, 3号, p. 826-832, https://doi.org/10.11361/journalcpij.54.826
     - <a id="BGMDS_JP"></a>[English Version](#BGMDS_EN)
 
 # 審査なし論文 | Non-Refereed Paper
@@ -57,6 +59,7 @@ See also
 
 **JP**
 
+1. 浅見泰司, 西颯人 "東京郊外の既存住宅流通市場の特性 -多層な需給者によって構築されている住宅市場-", FRKコミュニケーション, 通年20号, p.12-15, (2026)
 1. 西颯人 "立地と時点による不均一性を考慮した不動産価格モデルとその高速な計算法", ARES不動産証券化ジャーナル, Vol.70, p.30-38 (2022).
 1. 西颯人, 浅見泰司, 清水千弘, "住宅価格関数の「幻想」と市場分割アルゴリズム" 季刊住宅土地経済, No.122 (2021).
 1. 西颯人, 浅見泰司, 清水千弘, "住宅設備と賃料" 季刊住宅土地経済, No.116 Spring (2020).
@@ -96,18 +99,20 @@ See also
 
 **JP**
 
-1. 西颯人, 持橋大地 "項目反応理論を用いた居住地に対する評価のマッピング", 応用空間統計シンポジウム, 統計数理研究所, 2026/01/07
-2. 西颯人, "特定のMoran's Iを示す空間パターンの生成", 応用空間統計ワークショップ, 統計数理研究所, 2025/01/08
-3. 西颯人, "住宅サービスの測定と課題：民営家賃に着目して", 経済統計・公的統計の諸問題2024, 京都, 2024/03/21
+1. 西颯人 "項目反応理論を用いた居住地に対する評価のマッピング", CSISシンポジウム「空間データサイエンスの新地平：理論と実践と共創」, 東京大学空間情報科学研究センター, 2026/02/19
+2. 西颯人, 持橋大地 "項目反応理論を用いた居住地に対する評価のマッピング", 応用空間統計シンポジウム, 統計数理研究所, 2026/01/07
+3. 西颯人, "特定のMoran's Iを示す空間パターンの生成", 応用空間統計ワークショップ, 統計数理研究所, 2025/01/08
+4. 西颯人, "住宅サービスの測定と課題：民営家賃に着目して", 経済統計・公的統計の諸問題2024, 京都, 2024/03/21
 
 
 ## 共著発表 | Co-authored
 
 **JP**
 
-1. 吉田拓司、貞広幸雄、西颯人 "都市施設の立地パターンにおける包含性の定量的評価手法―埼玉県 の商業施設を対象とした実証分析―", 応用空間統計シンポジウム, 統計数理研究所, 2026/01/07
-2. 長谷川大輔, 西颯人. "道路単位での歩行者量分布に基づく駅徒歩圏域の広がりと分布の計測", 第34回 地理情報システム学会 学術研究発表大会, 富山, (2025/11/02)
-3. 長谷川大輔, 西颯人, "歩行者の広がり・分布からみた駅徒歩圏域の特徴把握", 応用空間統計ワークショップ, 統計数理研究所, 2025/01/08
+1. 長谷川大輔, 西颯人. "歩行者流動計測・制御のための人流データ活用", 日本オペレーションズ・リサーチ学会 2026年春季大会, 千葉, 2026/03/05
+2. 吉田拓司、貞広幸雄、西颯人 "都市施設の立地パターンにおける包含性の定量的評価手法―埼玉県 の商業施設を対象とした実証分析―", 応用空間統計シンポジウム, 統計数理研究所, 2026/01/07
+3. 長谷川大輔, 西颯人. "道路単位での歩行者量分布に基づく駅徒歩圏域の広がりと分布の計測", 第34回 地理情報システム学会 学術研究発表大会, 富山, 2025/11/02
+4. 長谷川大輔, 西颯人, "歩行者の広がり・分布からみた駅徒歩圏域の特徴把握", 応用空間統計ワークショップ, 統計数理研究所, 2025/01/08
 
 <!-- # ポスター発表 | Poster Presentation -->
 
