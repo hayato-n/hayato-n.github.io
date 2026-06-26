@@ -33,8 +33,13 @@ tag: ["page", "about"]
     - 一橋大学 [ソーシャル・データサイエンス教育研究推進センター][3] 特任助教 (2022/04-2023/03)
 - 学歴
     - 東京大学 工学部 都市工学科 都市計画コース 卒業 (2017/03)
+      - 卒業論文: 天空率に着目した都市プロポーションの最適化
     - 東京大学大学院 工学系研究科 都市工学専攻 修士課程 修了 (2019/03)
+      - 修士論文: 詳細な住宅特性の分析と価格の精緻な推定手法の開発 ―ヘドニック分析で考慮すべき住宅市場の多様性―
+        - 都市住宅学会第5回学生論文コンテスト修士論文部門優秀賞 受賞論文
     - [東京大学大学院 工学系研究科 都市工学専攻][1] 博士後期課程 修了 （博士（工学）） (2022/03/24)
+      - 博士論文：New Hedonic Analysis Methods for Heterogeneous Housing Markets(異質な住宅市場を想定した新しいヘドニック分析手法)
+        - 2021年度 都市住宅学会 学生論文コンテスト（博士部門）優秀賞
     - 統計数理研究所実施・文部科学省助成「[大学統計教員育成研修][ism_training]」修了 (2023/04/01-2025/03/31)
       - 所長賞受賞
       - [第２期 大学統計教員育成研修の概要](https://stat-expert.ism.ac.jp/training/2nd_training/)
@@ -81,6 +86,7 @@ tag: ["page", "about"]
     - BA in Urban Engineering, the University of Tokyo (2017/03)
     - ME in Urban Engineering, the University of Tokyo (2019/03)
     - Doctor of Engineering, in Urban Engineering [Department of Urban Engineering, the University of Tokyo][1], the University of Tokyo (2022/03/24)
+      - Thesis Title: New Hedonic Analysis Methods for Heterogeneous Housing Markets
     - 修了, [Statistics Professors Training Program][ism_training_en] in Consortium for Training Experts in Statistical Sciences, The Institute of Statistical Mathematics (ISM), supported by  the Ministry of Education, Culture, Sports, Science and Technology (MEXT) (2023/04/01-2025/03/31)
       - 所長賞 Award
       - [INFO (in Japanese)](https://stat-expert.ism.ac.jp/training/2nd_training/)

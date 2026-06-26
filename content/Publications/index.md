@@ -14,6 +14,7 @@ See also
 # 審査論文 | Refereed Paper
 
 **EN**
+
 1. Zhang, Beibei, Kimihiro Hino, and Hayato Nishi. 2026. “Financialized Loss: The Hidden Frontier of Housing Financialization.” Urban Science 10(4):190. doi:10.3390/urbansci10040190.
 1. Liu, Qiyuan, Hayato Nishi, Jen-Jia Lin, and Kojiro Sho. 2025. “Driving Factors of Gentrification: Evidence from the Three Major Metropolitan Areas of Japan.” Cities 167 (December): 106318. https://doi.org/10.1016/j.cities.2025.106318.
 1. Yuan, Lang, Kojiro Sho, Sunyong Eom, Hayato Nishi, Daisuke Hasegawa, Han Zhao, Takashi Aoki, Jiarui Zhu, Kaoru Matsuo, and Akinobu Masumura (2024). “Changes in Visitor Behaviour across COVID-19 Pandemic: Unveiling Urban Visitation Dynamics and Non-Linear Relationships with the Built Environment Using Mobile Big Data.” Habitat International 154 (December):103216. https://doi.org/10.1016/j.habitatint.2024.103216.
@@ -126,8 +127,9 @@ See also
 
 **JP**
 
+1. 西颯人 2026. 賃貸住宅の家賃変化と空室期間 In 浅見泰司 (編著). 人口減少時代の遊休不動産の流通・活用を考える. プログレス. 2026年4月. ISBN 978-4-910288-65-9.
 1. 西颯人、守山正. 2022. 5章:犯罪分析と統計学, 7章:AI活用による犯罪予測. In 守山正（編著）. 犯罪予測 ―AIによる分析―. 成文堂. 2022年3月 ISBN 978-4-7923-5361-2
-2. 西颯人、清水千弘. 2020. 4章:不動産市場分析における統計・機械学習の利用. In 清水千弘編. 不動産テック. 朝倉書店. 2020年10月. ISBN 978-4-254-27587-2
+2. 西颯人、清水千弘. 2020. 4章:不動産市場分析における統計・機械学習の利用. In 清水千弘 (編著). 不動産テック. 朝倉書店. 2020年10月. ISBN 978-4-254-27587-2
 
 # 競争的研究費 | Grant
 
@@ -181,10 +183,11 @@ See also
 | Japan Architectural Review                                |    1 |
 | International Journal of Geographical Information Science |    2 |
 | Urban and Regional Planning Review                        |    1 |
+| Journal of Housing and the Built Environment              |    1 |
 
 **JP**
 
 | 雑誌             | 査読回数 |
 | :--------------- | -------: |
-| GIS -理論と応用- |        1 |
-| 都市計画論文集   |        1 |
+| GIS -理論と応用- |        2 |
+| 都市計画論文集   |        4 |
