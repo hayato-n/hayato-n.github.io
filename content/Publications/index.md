@@ -26,7 +26,10 @@ See also
 1. Hayato Nishi, Yasushi Asami, Chihiro Shimizu, (2019) "Housing features and rent: estimating the microstructures of rental housing", International Journal of Housing Markets and Analysis, Vol. 12 Issue: 2, pp.210-225, https://doi.org/10.1108/IJHMA-09-2018-0067
 
 **JP**
-
+1. 西 颯人, 公示地価と接道方位の関係, 都市計画論文集, 2026, 61 巻, 3 号, p. 1693-1698, 公開日 2026/10/25, Online ISSN 2185-0593, Print ISSN 0916-0647, https://doi.org/10.11361/journalcpij.61.1693, https://www.jstage.jst.go.jp/article/journalcpij/61/3/61_11036/_article/-char/ja
+1. 小谷木 英資, 西 颯人, 長谷川 大輔, 樋野 公宏, 持橋 大地, マンション広告テキストが訴求する地域イメージの抽出とその空間分布, 都市計画論文集, 2026, 61 巻, 3 号, p. 1753-1759, 公開日 2026/10/25, Online ISSN 2185-0593, Print ISSN 0916-0647, https://doi.org/10.11361/journalcpij.61.1753
+1. 利田 有輝人, 西 颯人, 貞広 幸雄, 樋野 公宏, 長谷川 大輔, 星空環境の都市政策による改善可能性, 都市計画論文集, 2026, 61 巻, 3 号, p. 864-870, 公開日 2026/10/25, Online ISSN 2185-0593, Print ISSN 0916-0647, https://doi.org/10.11361/journalcpij.61.864
+1. 興 美咲子, 雨宮 護, 西 颯人, 樋野 公宏, 渡邉 泰洋, 守山 正, 特殊詐欺における阻止事案発生の実態と地域の社会環境との関連, 都市計画論文集, 2026, 61 巻, 3 号, p. 1653-1660, 公開日 2026/10/25, Online ISSN 2185-0593, Print ISSN 0916-0647, https://doi.org/10.11361/journalcpij.61.1653
 1. 宮岸 凌也, 樋野 公宏, 西 颯人, 浅見 泰司, 郊外地域における買い物施設へのアクセシビリティと地価の関係の地域差, 日本建築学会計画系論文集, 2026, 91 巻, 842 号, p. 862-868, 公開日 2026/04/01, Online ISSN 1881-8161, Print ISSN 1340-4210, https://doi.org/10.3130/aija.91.862
 2. 西 颯人, 浅見 泰司, 田中 和氏, 賃貸住宅市場における空室期間と賃料の関係, 都市計画論文集, 2025, 60 巻, 3 号, p. 1635-1642, https://doi.org/10.11361/journalcpij.
 3. 西 颯人, 浅見 泰司, 東京23区におけるアクセス性指標としての鉄道移動時間データと直線距離の比較 ― 土地取引価格のヘドニック分析を用いて, 都市計画論文集, 2024, 59 巻, 3号, p.1179-1185, https://doi.org/10.11361/journalcpij.59.1179.
@@ -127,7 +130,7 @@ See also
 
 **JP**
 
-1. 西颯人 2026. 賃貸住宅の家賃変化と空室期間 In 浅見泰司 (編著). 人口減少時代の遊休不動産の流通・活用を考える. プログレス. 2026年4月. ISBN 978-4-910288-65-9.
+1. 西颯人 2026. 賃貸住宅の家賃変化と空室期間 In 浅見泰司 (編著). 人口減少時代の遊休不動産の流通・活用を考える. プログレス. 2026年5月. ISBN 978-4-910288-65-9.
 1. 西颯人、守山正. 2022. 5章:犯罪分析と統計学, 7章:AI活用による犯罪予測. In 守山正（編著）. 犯罪予測 ―AIによる分析―. 成文堂. 2022年3月 ISBN 978-4-7923-5361-2
 2. 西颯人、清水千弘. 2020. 4章:不動産市場分析における統計・機械学習の利用. In 清水千弘 (編著). 不動産テック. 朝倉書店. 2020年10月. ISBN 978-4-254-27587-2
 
@@ -166,7 +169,7 @@ See also
 
 **JP**
 
-1. 統計数理研究所　所長賞, 統計数理研究所実施「大学統計教員育成研究」 2025年3月17日
+1. 統計数理研究所　所長賞, 統計数理研究所実施「大学統計教員育成研修」 2025年3月17日
 1. 学生論文コンテスト（博士部門）優秀賞, 都市住宅学会, 2022年3月
 1. 不動産テック学生コンテスト2020（東京大学空間情報科学研究センター, 麗澤大学都市・不動産科学研究センター）大学院部門優秀賞, 2020年9月
 1. 学生論文コンテスト (修士論文部門) 優秀賞, 都市住宅学会, 2020 年 3 月
@@ -181,13 +184,15 @@ See also
 | GeoJournal                                                |    1 |
 | Journal of Regional Science                               |    1 |
 | Japan Architectural Review                                |    1 |
-| International Journal of Geographical Information Science |    2 |
+| International Journal of Geographical Information Science |    3 |
 | Urban and Regional Planning Review                        |    1 |
 | Journal of Housing and the Built Environment              |    1 |
+| Environmental and Ecological Statistics                   |    1 |
+| Geographical Analysis                                     |    1 |
 
 **JP**
 
 | 雑誌             | 査読回数 |
 | :--------------- | -------: |
-| GIS -理論と応用- |        2 |
+| GIS -理論と応用- |        3 |
 | 都市計画論文集   |        4 |
